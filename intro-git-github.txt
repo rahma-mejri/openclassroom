@@ -1,4 +1,5 @@
 Git est un logiciel libre, il est créé par Linus Torvalds ( le créateur de noyaux Linux) et distribué selon les termes de la licence GNU 2.0.
 
 C'est un logiciel de contrôle des versions décentralisées. 
-Github est un service pour héberger des dépôts et git est l'outil qui nous permet de créer un dépôt local et de gérer les versions. 
+Github est un service pour héberger des dépôts et git est l'outil qui nous permet de créer un dépôt local et de gérer les versions.
+Git est un logiciel de gestion de versions, Github est un service d'hébergement et de gestion de développement de projet informatique. 
